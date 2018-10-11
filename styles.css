@@ -6,7 +6,7 @@
 body {
 	font-size: 15px;
 	font-family: Georgia;
-    padding: 10px;
+    	padding: 10px;
 }
 
 .flex-container {
@@ -26,7 +26,7 @@ body {
 }
 
 .left{
-	padding-left: 10px;
+    padding-left: 10px;
     padding-right: 5px;
     padding-top: 5px;
     padding-bottom: 150px;
@@ -46,7 +46,6 @@ img{
 .right{
     padding-right: 5px;
     padding-left: 250px;
-    padding-bottom: 20px;
     margin-left: 80px;
     margin-top: 170px;
     margin-bottom: 30px;
